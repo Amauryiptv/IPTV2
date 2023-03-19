@@ -2,7 +2,7 @@
 ●─➤ᴘʏᴛʜᴏɴ ᴍᴏʙɪʟ ᴍ𝟹ᴜ ᴛᴀʀᴀᴍᴀ
 ╭─➤  𝗛𝗶𝘁𝘀 ʙʏ 🎭 BAŞKAN-AZAT-PRO 🎭   
 ├🔸  𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟   
-├🔸🌐 Host ➤ http://srv.maxptv.net
+├🔸🌐 Host ➤ http://srv.maxptv.net:8080
 ├♦️🌍 Real ➤ http://srv.maxptv.net
 ├🔸📡 Port ➤ 8080
 ├♦️👩‍ User ➤ nunes
@@ -17,7 +17,7 @@
 ├●🎬 Film Sayısı➤0
 ├●🎬 Dizi Sayısı➤0
 ╰─➤𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟 
-├●🔗m3u_Url➤http://srv.maxptv.net/get.php?username=nunes&password=nunes&type=m3u_plus
+├●🔗m3u_Url➤http://srv.maxptv.net:8080/get.php?username=nunes&password=nunes&type=m3u_plus
 ▰▰ᴾʸᵗʰᵒⁿ ᴾʳᵒᵍʳᵃᵐᵐᵉʳ ᵇʸ keriz▰▰
 ├«❖» «❖» Kategori➤
  🌟 [] 
@@ -25,7 +25,7 @@
 ●─➤ᴘʏᴛʜᴏɴ ᴍᴏʙɪʟ ᴍ𝟹ᴜ ᴛᴀʀᴀᴍᴀ
 ╭─➤  𝗛𝗶𝘁𝘀 ʙʏ 🎭 BAŞKAN-AZAT-PRO 🎭   
 ├🔸  𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟   
-├🔸🌐 Host ➤ http://srv.maxptv.net
+├🔸🌐 Host ➤ http://srv.maxptv.net:8080
 ├♦️🌍 Real ➤ http://srv.maxptv.net
 ├🔸📡 Port ➤ 8080
 ├♦️👩‍ User ➤ nunes
@@ -40,7 +40,7 @@
 ├●🎬 Film Sayısı➤0
 ├●🎬 Dizi Sayısı➤0
 ╰─➤𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟 
-├●🔗m3u_Url➤http://srv.maxptv.net/get.php?username=nunes&password=nunes&type=m3u_plus
+├●🔗m3u_Url➤http://srv.maxptv.net:8080/get.php?username=nunes&password=nunes&type=m3u_plus
 ▰▰ᴾʸᵗʰᵒⁿ ᴾʳᵒᵍʳᵃᵐᵐᵉʳ ᵇʸ keriz▰▰
 ├«❖» «❖» Kategori➤
  🌟 [] 
@@ -48,7 +48,7 @@
 ●─➤ᴘʏᴛʜᴏɴ ᴍᴏʙɪʟ ᴍ𝟹ᴜ ᴛᴀʀᴀᴍᴀ
 ╭─➤  𝗛𝗶𝘁𝘀 ʙʏ 🎭 BAŞKAN-AZAT-PRO 🎭   
 ├🔸  𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟   
-├🔸🌐 Host ➤ http://srv.maxptv.net
+├🔸🌐 Host ➤ http://srv.maxptv.net:8080
 ├♦️🌍 Real ➤ http://srv.maxptv.net
 ├🔸📡 Port ➤ 8080
 ├♦️👩‍ User ➤ rose
@@ -59,11 +59,11 @@
 ├🔸🌐 Status ➤ Active
 ├🔸⏰ TimeZone➤ America/Sao_Paulo
 ╰─➤  𝗛𝗶𝘁𝘀 ʙʏ 🎭 BAŞKAN-AZAT-PRO 🎭   
-╭➤🎬 Kanal Sayısı➤867
+╭➤🎬 Kanal Sayısı➤846
 ├●🎬 Film Sayısı➤4154
 ├●🎬 Dizi Sayısı➤1858
 ╰─➤𝗺3𝘂𝗟𝗶𝗻𝗸  𝗦𝗽𝗲𝗲𝗱 𝗫🌟🌟🌟 
-├●🔗m3u_Url➤http://srv.maxptv.net/get.php?username=rose&password=12345678&type=m3u_plus
+├●🔗m3u_Url➤http://srv.maxptv.net:8080/get.php?username=rose&password=12345678&type=m3u_plus
 ▰▰ᴾʸᵗʰᵒⁿ ᴾʳᵒᵍʳᵃᵐᵐᵉʳ ᵇʸ keriz▰▰
 ├«❖» «❖» Kategori➤
  🌟 [{ 🌟 Canais | BBB23 🌟 Canais | ABERTOS 🌟 Canais I CORTESIA 🌟 Canais | DOCUMENTÁRIOS  🌟 Canais | ESPORTES 🌟 Canais | FILMES E SÉRIES  🌟 Canais I CINE SKY 🌟 Canais | FILMES 🌟 Canais I GLOBO REGIONAIS 🌟 Canais | INFANTIL 🌟 Canais | HBO 🌟 Canais | MUSICAIS 🌟 Canais | MUNDO INTERNACIONAL 🌟 Canais | NOTÍCIAS  🌟 Canais | PREMIERE 🌟 Canais | RELIGIÃO 🌟  Canais I RECORD REGIONAIS  🌟 Canais | TELECINE 🌟 Canais | VARIEDADES 🌟 Canais | [XXX] ADULTO 🌟 Canais I Clipes 🌟  Canais I ELEVEN SPORTS 🌟 Canais I ESPORTES STREAMING 🌟 Canais | CONMEBOL PARAMOUNT+ 🌟 Canais I UFC FIGHT PASS 🌟 Canais I CARIOCA FC  🌟 Canais I NORDESTE FC 🌟 Canais I PAULISTÃO PLAY  🌟  Canais | COPA CATARINENSE 🌟  Canais I NOSSO FUTEBOL  🌟 Canais I FURACÃO PLAY  🌟 Canais I NBA LEAGUE PASS 🌟 Canais I TNT SPORTS 🌟 Canais I RÁDIOS FM 🌟 Canais |  24 HORAS 🌟 Canais | INFANTIL 24 HORAS 🌟 Canais I Largados e Pelados - 24H  🌟 Canais | Programas TV - 24H 🌟  Canais | CLÁSSICOS SÉRIES  🌟  Canais | CLÁSSICOS DESENHOS 24 HORAS  🌟 Canais I Adultos 24h 🌟 Canais I Adultos I LGBTQI+ 24h 🌟 24-nova 
